@@ -4,4 +4,5 @@ export * from "./settings";
 export * from "./consolidations";
 export * from "./packages";
 export * from "./customer-charges";
+export * from "./invoices";
 export * from "./audit";

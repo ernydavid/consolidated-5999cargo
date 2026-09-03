@@ -1,12 +1,12 @@
 import { redirect } from "next/navigation";
 
 import { LoginForm } from "@/components/auth/login-form";
-import { getSession } from "@/lib/dal";
+import { getAuthenticatedUser } from "@/lib/dal";
 
 export default async function LoginPage() {
-  const session = await getSession();
+  const user = await getAuthenticatedUser();
 
-  if (session) {
+  if (user) {
     redirect("/");
   }
 

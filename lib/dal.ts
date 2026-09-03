@@ -10,33 +10,33 @@ import { users } from "@/db/schema";
 import { createClient } from "@/lib/server";
 import type { AppRole, SessionUser } from "@/lib/permissions";
 
-export const getSession = cache(async () => {
+export const getAuthenticatedUser = cache(async () => {
   const supabase = await createClient();
   const {
-    data: { session },
-  } = await supabase.auth.getSession();
+    data: { user },
+  } = await supabase.auth.getUser();
 
-  return session;
+  return user;
 });
 
 export const requireSession = cache(async () => {
-  const session = await getSession();
+  const user = await getAuthenticatedUser();
 
-  if (!session) {
+  if (!user) {
     redirect("/login");
   }
 
-  return session;
+  return user;
 });
 
 export const getCurrentUser = cache(async () => {
-  const session = await getSession();
+  const user = await getAuthenticatedUser();
 
-  if (!session?.user) {
+  if (!user) {
     return null;
   }
 
-  return enrichUser(session.user);
+  return enrichUser(user);
 });
 
 async function enrichUser(user: User): Promise<SessionUser> {

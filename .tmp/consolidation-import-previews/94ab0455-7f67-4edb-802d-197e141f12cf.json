@@ -1,0 +1,543 @@
+{
+  "token": "94ab0455-7f67-4edb-802d-197e141f12cf",
+  "organizationId": "org_9a51c773-d68f-4ea5-8b8b-2181ed12946d",
+  "actorUserId": "usr_9bad84ca-e9de-489f-b6f5-799a5a30e967",
+  "workbookTempPath": "C:\\Users\\ernys\\dev\\projects\\nextjs\\consolidated-5999cargo\\.tmp\\consolidation-import-previews\\94ab0455-7f67-4edb-802d-197e141f12cf-1344.xlsx",
+  "createdAt": "2026-07-15T23:59:29.106Z",
+  "form": {
+    "reference": "1344",
+    "carrier": "CUW",
+    "flightDate": "2026-07-15",
+    "originalFilename": "1344.xlsx"
+  },
+  "validRows": [
+    {
+      "sourceRowNumber": 3,
+      "warehouseReference": "W523519482935",
+      "trackingNumber": "'69E0BF3B'",
+      "trackingLast4": "F3B'",
+      "customerNameRaw": "Redianne Maduro",
+      "customerNameNormalized": "redianne maduro",
+      "customerEmail": "rediane9081@gmail.com",
+      "descriptionRaw": "2 wasmiddelen, 2 softener, Gebruikte keukenartikelen: slowcooker, airfryer, mixer; gebruikte persoonlijke hygiene; Gelm pommade, lotion, olie, Gebruikte kleding Dames",
+      "weightLb": "29.2000",
+      "dimensionsRaw": "45x45x70"
+    },
+    {
+      "sourceRowNumber": 4,
+      "warehouseReference": "W523511982934",
+      "trackingNumber": "'7A34D0A1'",
+      "trackingLast4": "0A1'",
+      "customerNameRaw": "Junairi Stacie",
+      "customerNameNormalized": "junairi stacie",
+      "customerEmail": "staciejarienne@gmail.com",
+      "descriptionRaw": "Diverse schoolspullen, tas, etui, potloden, pen. 3 Schoenen voor kinderen.",
+      "weightLb": "9.6000",
+      "dimensionsRaw": "50x36x35"
+    },
+    {
+      "sourceRowNumber": 5,
+      "warehouseReference": "W5103387792927",
+      "trackingNumber": "'LS-NL-62027011-5'",
+      "trackingLast4": "1-5'",
+      "customerNameRaw": "Luigi Samson",
+      "customerNameNormalized": "luigi samson",
+      "customerEmail": "gino_samson@yahoo.com",
+      "descriptionRaw": "2x adult wig, 5x vrouwen schoenen, 9x kleding stuk, 1 beha, 2x oorbellen",
+      "weightLb": "3.9000",
+      "dimensionsRaw": "37x31x34"
+    }
+  ],
+  "invalidRows": [
+    {
+      "sourceRowNumber": 6,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "'9C534F4E'",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "80x51x23"
+      }
+    },
+    {
+      "sourceRowNumber": 7,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "'9C534F4E'",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "80x51x23"
+      }
+    },
+    {
+      "sourceRowNumber": 8,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "'9C534F4E'",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "80x51x23"
+      }
+    },
+    {
+      "sourceRowNumber": 9,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "'9C534F4E'",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "80x51x23"
+      }
+    },
+    {
+      "sourceRowNumber": 10,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "100x52x54"
+      }
+    },
+    {
+      "sourceRowNumber": 11,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "100x52x54"
+      }
+    },
+    {
+      "sourceRowNumber": 12,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "45x45x70"
+      }
+    },
+    {
+      "sourceRowNumber": 13,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "45x45x70"
+      }
+    },
+    {
+      "sourceRowNumber": 14,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "45x45x70"
+      }
+    },
+    {
+      "sourceRowNumber": 15,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "61x59x5"
+      }
+    },
+    {
+      "sourceRowNumber": 16,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "85x61x31"
+      }
+    },
+    {
+      "sourceRowNumber": 17,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "107x114x14"
+      }
+    },
+    {
+      "sourceRowNumber": 18,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "166x115x12"
+      }
+    },
+    {
+      "sourceRowNumber": 19,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "116x115x13"
+      }
+    },
+    {
+      "sourceRowNumber": 20,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "116x113x6"
+      }
+    },
+    {
+      "sourceRowNumber": 21,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "169x52x7"
+      }
+    },
+    {
+      "sourceRowNumber": 22,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "110x52x5"
+      }
+    },
+    {
+      "sourceRowNumber": 23,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "116x113x6"
+      }
+    },
+    {
+      "sourceRowNumber": 24,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "102x52x5"
+      }
+    },
+    {
+      "sourceRowNumber": 25,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "80x51x23"
+      }
+    },
+    {
+      "sourceRowNumber": 26,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "80x51x23"
+      }
+    },
+    {
+      "sourceRowNumber": 27,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "130x52x12"
+      }
+    },
+    {
+      "sourceRowNumber": 28,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "207x38x19"
+      }
+    },
+    {
+      "sourceRowNumber": 29,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "137x41x20"
+      }
+    },
+    {
+      "sourceRowNumber": 30,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "113x38x15"
+      }
+    },
+    {
+      "sourceRowNumber": 31,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "152x82x26"
+      }
+    },
+    {
+      "sourceRowNumber": 32,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "''",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "118x27x8"
+      }
+    },
+    {
+      "sourceRowNumber": 33,
+      "reasons": [
+        "Duplicate tracking number found in workbook."
+      ],
+      "preview": {
+        "warehouseReference": "W523515602905",
+        "trackingNumber": "'9C534F4E'",
+        "customerNameRaw": "Surhayna Pinedo",
+        "customerEmail": "surhaynapinedo@gmail.com",
+        "descriptionRaw": "Emigratie - zie paklijst",
+        "weightLb": "15",
+        "dimensionsRaw": "80x51x23"
+      }
+    }
+  ],
+  "duplicateTrackingNumbers": [
+    {
+      "trackingNumber": "''",
+      "rowNumbers": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "trackingNumber": "'9C534F4E'",
+      "rowNumbers": [
+        6,
+        7,
+        8,
+        9,
+        33
+      ]
+    }
+  ],
+  "customerSummaries": [
+    {
+      "key": "staciejarienne@gmail.com",
+      "label": "Junairi Stacie",
+      "email": "staciejarienne@gmail.com",
+      "packageCount": 1,
+      "totalWeightLb": "9.6000"
+    },
+    {
+      "key": "gino_samson@yahoo.com",
+      "label": "Luigi Samson",
+      "email": "gino_samson@yahoo.com",
+      "packageCount": 1,
+      "totalWeightLb": "3.9000"
+    },
+    {
+      "key": "rediane9081@gmail.com",
+      "label": "Redianne Maduro",
+      "email": "rediane9081@gmail.com",
+      "packageCount": 1,
+      "totalWeightLb": "29.2000"
+    }
+  ],
+  "totals": {
+    "packageCount": 3,
+    "customerCount": 3,
+    "totalWeightLb": "42.7000",
+    "invalidRowCount": 28,
+    "duplicateTrackingCount": 2
+  }
+}
